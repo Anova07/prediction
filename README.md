@@ -26,7 +26,7 @@ Stock prices are sequential and time-dependent. This project models them using L
 
 ##  Dataset
 
-- Google Stock Price Dataset
+- Google Stock Price Dataset (Kaggle)
   - Train: `Google_Stock_Price_Train.csv`
   - Test: `Google_Stock_Price_Test.csv`
 
